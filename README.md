@@ -2,18 +2,16 @@
 
 ## Description
 
-This project is a PWA which is used to track budgets when online and offline. When offline it stores your changes so when you go back it updates your budget. 
+This project is a PWA which is used to track budgets when online and offline. When offline it stores your changes so when you go back it updates your budget.
 
 I hope you enjoy.
 
-Link to the finished webpage hosted on Git: https://wron1.github.io/user-directory/
-
+Link to the finished webpage hosted on Git: https://wron1.github.io/budget-tracker/
 
 ## Usage
 
 Top section of the webpage
 ![Screenshot 1](public/Capture.PNG?raw=true)
-
 
 ## License
 
